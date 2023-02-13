@@ -13,7 +13,7 @@
     },
     {
       "class": "sidebar_container",
-      "layer0.tint": "#2a2c2f"
+      "layer0.tint": "#32323B"
     },
     {
       "class": "status_bar",
@@ -154,7 +154,7 @@
       "attributes": [
         "selected"
       ],
-      "tint_modifier": "#1F1F24"
+      "tint_modifier": "#32323B"
     },
     {
       "class": "tab_control",
